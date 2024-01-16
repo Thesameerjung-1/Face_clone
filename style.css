@@ -1,0 +1,107 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    box-sizing: border-box;
+    /* border: 1px solid black; */
+}
+
+
+.main_box{
+    display: flex;
+    background-color: #c9ccd136;
+}
+
+.box{
+    width: 50%;
+    height: 700px;
+}
+
+.face{
+    color: #0866ff;
+    font-size: 65px;
+    font-weight:bolder;
+    text-align: center;
+    margin-top: 25%;
+    margin-right: 130px;
+    margin-left: 410px;
+}
+
+.des{
+    font-size: 30px;
+    margin-left: 480px;
+    /* text-align: center; */
+}
+
+
+
+
+.form_section{
+    display: flex;
+    /* align-items: center; */
+    
+}
+
+.form_box{
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.500);
+    width: 360px;
+    height: 350px;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: 195px;
+    border-radius: 12px;
+    background-color: #ffffffe0;
+    /* padding: 5px; */
+}
+
+
+
+.email, .password{
+    width: 335px;
+    height: 45px;
+    margin-top: 16px;
+    padding: 6px;
+    padding-left: 15px;
+    /* margin-bottom:35px ; */
+    font-size: 16px;
+    /* border: none; */
+    border-radius: 8px;
+    border-color: rgba(0, 0, 0, 0.130);
+
+}
+
+
+.form_box a{
+    display: block;
+    text-decoration: none;
+}
+
+.login{
+    /* margin-top: 20px; */
+    background-color: #1877f2;
+    width: 330px;
+    margin: 20px auto 10px; 
+    border-radius: 10px;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+}
+
+.frpass{
+    color: #1877f2;
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+
+
+hr{
+    width: 320px;
+    margin: auto;
+}
+
+
+
+
